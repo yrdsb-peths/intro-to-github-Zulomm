@@ -8,7 +8,7 @@ The contents of a readme file are written using [Markdown](https://www.markdowng
 
 2. Enter your First Name: lionson m
 
-3. Enter your favourite animal: Dog
+3. Enter your favourite animal: Cow
 
 4. Click the green `Commit Changes` button.
 
